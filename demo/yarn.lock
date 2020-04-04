@@ -1649,10 +1649,10 @@
     "@types/node" "^11.11.6"
     tslib "^1.9.3"
 
-"@sbc/seraph-id-sdk@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-1.0.1.tgz#b379b8e2cacf90a7e569fcab1717097aafd0abd5"
-  integrity sha512-BE89dLmDG5v7yp3WkTMRyKkhdbq/uM4aBh8HRUu0wWg3oyXnaq95OpfqSTQOkVmuRYsJB0aX/dX1CK9XKJMP5A==
+"@sbc/seraph-id-sdk@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-2.0.1.tgz#6e15ce96db664e62db82730f40b2b44b2ab19a9f"
+  integrity sha512-Gg3DdL7Tnsfac57I/fo42Ldtv7epIIRK1s/VS9iHzW/vtQ6S/oCHhxq8p/UlKg1v7LkPH4h1ha8zbcZOFmdFkg==
   dependencies:
     "@cityofzion/neon-js" "^4.5.2"
 
@@ -2442,9 +2442,9 @@ acorn-walk@^6.0.1:
   integrity sha512-OtUw6JUTgxA2QoqqmrmQ7F2NYqiBPi/L2jqHyFtllhOUvXYQXf0Z1CYUinIfyT4bTCGmrA7gX9FvHA81uzCoVw==
 
 acorn@^5.5.3:
-  version "5.7.3"
-  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.3.tgz#67aa231bf8812974b85235a96771eb6bd07ea279"
-  integrity sha512-T/zvzYRfbVojPWahDsE5evJdHb3oJoQfFbsrKM7w5Zcs++Tr257tia3BmMP8XYVjp1S9RZXQMh7gao96BlqZOw==
+  version "5.7.4"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-5.7.4.tgz#3e8d8a9947d0599a1796d10225d7432f4a4acf5e"
+  integrity sha512-1D++VG7BhrtvQpNbBzovKNc1FLGGEE/oGe7b9xJm/RFHMBeUaUGpluV9RLjZa47YFdPcDAenEYuq9pQPcMdLJg==
 
 acorn@^6.0.1, acorn@^6.0.4, acorn@^6.0.5, acorn@^6.0.7:
   version "6.1.1"
