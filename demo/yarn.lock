@@ -1649,10 +1649,10 @@
     "@types/node" "^11.11.6"
     tslib "^1.9.3"
 
-"@sbc/seraph-id-sdk@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-1.0.1.tgz#b379b8e2cacf90a7e569fcab1717097aafd0abd5"
-  integrity sha512-BE89dLmDG5v7yp3WkTMRyKkhdbq/uM4aBh8HRUu0wWg3oyXnaq95OpfqSTQOkVmuRYsJB0aX/dX1CK9XKJMP5A==
+"@sbc/seraph-id-sdk@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-2.0.1.tgz#6e15ce96db664e62db82730f40b2b44b2ab19a9f"
+  integrity sha512-Gg3DdL7Tnsfac57I/fo42Ldtv7epIIRK1s/VS9iHzW/vtQ6S/oCHhxq8p/UlKg1v7LkPH4h1ha8zbcZOFmdFkg==
   dependencies:
     "@cityofzion/neon-js" "^4.5.2"
 
@@ -5093,9 +5093,9 @@ fbjs@^0.8.1:
     ua-parser-js "^0.7.18"
 
 figgy-pudding@^3.5.1:
-  version "3.5.1"
-  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.1.tgz#862470112901c727a0e495a80744bd5baa1d6790"
-  integrity sha512-vNKxJHTEKNThjfrdJwHc7brvM6eVevuO5nTj6ez8ZQ1qbXTvGthucRF7S4vf2cr71QVnT70V34v0S1DyQsti0w==
+  version "3.5.2"
+  resolved "https://registry.yarnpkg.com/figgy-pudding/-/figgy-pudding-3.5.2.tgz#b4eee8148abb01dcf1d1ac34367d59e12fa61d6e"
+  integrity sha512-0btnI/H8f2pavGMN8w40mlSKOfTK2SVJmBfBeVIj3kNw0swwgzyRq0d5TJVOwodFmtvpPeWPN/MCcfuWF0Ezbw==
 
 figures@^2.0.0:
   version "2.0.0"
@@ -10463,9 +10463,9 @@ sshpk@^1.7.0:
     tweetnacl "~0.14.0"
 
 ssri@^6.0.1:
-  version "6.0.1"
-  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.1.tgz#2a3c41b28dd45b62b63676ecb74001265ae9edd8"
-  integrity sha512-3Wge10hNcT1Kur4PDFwEieXSCMCJs/7WvSACcrMYrNp+b8kDL1/0wJch5Ni2WrtwEa2IO8OsVfeKIciKCDx/QA==
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/ssri/-/ssri-6.0.2.tgz#157939134f20464e7301ddba3e90ffa8f7728ac5"
+  integrity sha512-cepbSq/neFK7xB6A50KHN0xHDotYzq58wWCa5LeWqnPrHG8GzfEjO/4O8kpmcGW+oaxkvhEJCWgbgNk4/ZV93Q==
   dependencies:
     figgy-pudding "^3.5.1"
 
