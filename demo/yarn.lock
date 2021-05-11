@@ -1649,10 +1649,10 @@
     "@types/node" "^11.11.6"
     tslib "^1.9.3"
 
-"@sbc/seraph-id-sdk@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-1.0.1.tgz#b379b8e2cacf90a7e569fcab1717097aafd0abd5"
-  integrity sha512-BE89dLmDG5v7yp3WkTMRyKkhdbq/uM4aBh8HRUu0wWg3oyXnaq95OpfqSTQOkVmuRYsJB0aX/dX1CK9XKJMP5A==
+"@sbc/seraph-id-sdk@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-2.0.1.tgz#6e15ce96db664e62db82730f40b2b44b2ab19a9f"
+  integrity sha512-Gg3DdL7Tnsfac57I/fo42Ldtv7epIIRK1s/VS9iHzW/vtQ6S/oCHhxq8p/UlKg1v7LkPH4h1ha8zbcZOFmdFkg==
   dependencies:
     "@cityofzion/neon-js" "^4.5.2"
 
@@ -5692,9 +5692,9 @@ hoist-non-react-statics@^3.1.0, hoist-non-react-statics@^3.2.1, hoist-non-react-
     react-is "^16.7.0"
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
-  integrity sha512-7T/BxH19zbcCTa8XkMlbK5lTo1WtgkFi3GvdWEyNuc4Vex7/9Dqbnpsf4JMydcfj9HCg4zUWFTL3Za6lapg5/w==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 hpack.js@^2.1.6:
   version "2.1.6"
