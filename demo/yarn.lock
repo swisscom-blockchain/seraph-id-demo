@@ -1649,10 +1649,10 @@
     "@types/node" "^11.11.6"
     tslib "^1.9.3"
 
-"@sbc/seraph-id-sdk@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-1.0.1.tgz#b379b8e2cacf90a7e569fcab1717097aafd0abd5"
-  integrity sha512-BE89dLmDG5v7yp3WkTMRyKkhdbq/uM4aBh8HRUu0wWg3oyXnaq95OpfqSTQOkVmuRYsJB0aX/dX1CK9XKJMP5A==
+"@sbc/seraph-id-sdk@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-2.0.1.tgz#6e15ce96db664e62db82730f40b2b44b2ab19a9f"
+  integrity sha512-Gg3DdL7Tnsfac57I/fo42Ldtv7epIIRK1s/VS9iHzW/vtQ6S/oCHhxq8p/UlKg1v7LkPH4h1ha8zbcZOFmdFkg==
   dependencies:
     "@cityofzion/neon-js" "^4.5.2"
 
@@ -8353,9 +8353,9 @@ path-key@^2.0.0, path-key@^2.0.1:
   integrity sha1-QRyttXTFoUDTpLGRDUDYDMn0C0A=
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
-  integrity sha512-GSmOT2EbHrINBf9SR7CDELwlJ8AENk3Qn7OikK4nFYAu3Ote2+JYNVvkpAEQm3/TLNEJFD/xZJjzyxg3KBWOzw==
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
+  integrity sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==
 
 path-to-regexp@0.1.7:
   version "0.1.7"
