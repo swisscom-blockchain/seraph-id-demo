@@ -1649,10 +1649,10 @@
     "@types/node" "^11.11.6"
     tslib "^1.9.3"
 
-"@sbc/seraph-id-sdk@^1.0.0":
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-1.0.1.tgz#b379b8e2cacf90a7e569fcab1717097aafd0abd5"
-  integrity sha512-BE89dLmDG5v7yp3WkTMRyKkhdbq/uM4aBh8HRUu0wWg3oyXnaq95OpfqSTQOkVmuRYsJB0aX/dX1CK9XKJMP5A==
+"@sbc/seraph-id-sdk@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@sbc/seraph-id-sdk/-/seraph-id-sdk-2.0.1.tgz#6e15ce96db664e62db82730f40b2b44b2ab19a9f"
+  integrity sha512-Gg3DdL7Tnsfac57I/fo42Ldtv7epIIRK1s/VS9iHzW/vtQ6S/oCHhxq8p/UlKg1v7LkPH4h1ha8zbcZOFmdFkg==
   dependencies:
     "@cityofzion/neon-js" "^4.5.2"
 
@@ -7656,10 +7656,10 @@ mkdirp@0.5.1, mkdirp@0.5.x, mkdirp@^0.5.0, mkdirp@^0.5.1, mkdirp@~0.5.0, mkdirp@
   dependencies:
     minimist "0.0.8"
 
-moment@^2.24.0:
-  version "2.24.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.24.0.tgz#0d055d53f5052aa653c9f6eb68bb5d12bf5c2b5b"
-  integrity sha512-bV7f+6l2QigeBBZSM/6yTNq4P2fNpSWj/0e7jQcy87A8e7o2nAfP/34/2ky5Vw4B9S446EtIhodAzkFCcR4dQg==
+moment@^2.29.2:
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 move-concurrently@^1.0.1:
   version "1.0.1"
